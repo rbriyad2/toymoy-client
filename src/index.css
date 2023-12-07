@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'node_modules/scroll-carousel/dist/scroll.carousel.min.css';
+
+.bg-color{
+    background-image: linear-gradient(to top, #6a85b6 0%, #bac8e0 100%);
+    width: 100%;
+}
+body{
+    font-family: 'Quicksand', sans-serif;
+}

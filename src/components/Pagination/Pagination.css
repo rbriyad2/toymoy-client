@@ -1,0 +1,7 @@
+.pagination{
+    padding: 5px;
+background-color: azure;
+}
+.pagination .selected{
+    background-color: blueviolet;
+}

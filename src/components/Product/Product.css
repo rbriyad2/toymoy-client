@@ -1,0 +1,26 @@
+.productimg{
+    width: 100%;
+    height: 80%;
+    border-radius: 20px;
+}
+.details h2{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+    transition: all linear .3s;
+}
+.details h2:hover{
+    color: rgb(3, 145, 145)
+}
+.details p{
+    font-size: 18px;
+    font-weight: 500;
+}
+.details h4{
+    font-weight: 800;
+    font-size: 20px;
+}
+.product{
+    border: 4px solid #00000070;
+
+}

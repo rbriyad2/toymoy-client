@@ -1,0 +1,30 @@
+.usermodal{
+    left: 0;
+    top: 0 !important;
+}
+.user{
+  position: relative;
+}
+.userinfo{
+    position: absolute;
+    right: 150px;
+    top: 65px;
+    background-color: #90bccd;
+    width: 380px;
+    border-radius: 10px;
+    transition: all linear .3s;
+    border: 2px solid #03010d;
+
+}
+
+.gradient-border-mask {
+    padding: 50px 20px;
+  }
+  .header-item ul li a{
+    transition: all linear .3s;
+  }
+  .header-item ul li a:hover{
+    color: #700202;
+  }
+  
+  

@@ -1,0 +1,21 @@
+.short{
+    border: 10px solid #676666;
+    border-radius: 8px;
+    width: 260px;
+    height: 450px;
+    background: #000;
+}
+.productname{
+    width: 100%;
+    height: 50px;
+    background-color: rgba(127, 255, 212, 0.154);
+    margin-top: 160%;
+    align-items: center;
+}
+.productname h4{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(170, 171, 172);
+}
